@@ -1,0 +1,47 @@
+
+body{
+    height:100%;
+    width:100%;
+}
+.top{
+    position: relative;
+}
+.left{
+    position:absolute;
+    left:0%;
+}
+.right{
+    position:absolute;
+    right:0%;
+}
+.search{
+    position:fixed;
+}
+tr{
+    width:900px !important;
+}
+h1{
+    font-size:20px !important;
+}
+p{
+    font-size: 9px;
+}
+td{
+    width:70px;
+    height:70px;
+}
+.element{
+    width:70px;
+    height:70px;
+}
+#group > *{
+    height:0px;
+}
+#group{
+    height:0px;
+}
+body{
+    background-color: black !important;
+    color:white !important;
+    overflow-x:hidden;
+}
